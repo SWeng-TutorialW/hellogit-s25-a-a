@@ -10,7 +10,7 @@
 	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Arielle Mezi + Alex Tartakovsky"
+		   text="Arielle Mezi + Alex Tartakovsky."
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
