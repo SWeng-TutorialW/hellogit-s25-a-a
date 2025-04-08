@@ -1,0 +1,1 @@
+![Screenshot](C:\Users\ursan\IdeaProjects\hellogit-s25-a-a\src\main\resources\il\ac\haifa\cs\sweng\HelloGit\Screenshot.jpg)
